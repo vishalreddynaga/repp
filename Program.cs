@@ -6,7 +6,5 @@ namespace Gittest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello this cddis surface go!");
-        }
-    }
+            Console.WriteLine("Hello this cddis surface go0`
 }
